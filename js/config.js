@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Warriors Of The Republic";
+var l_serverName = "Hogwarts Order Of The Phoenix";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -53,16 +53,15 @@ var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
 	"backgrounds/images/touhou03.jpg",
-	"backgrounds/images/touhou04.png",
+	"backgrounds/images/touhou04.jpg",
 	"backgrounds/images/touhou05.jpg",
 	"backgrounds/images/touhou05.jpg",
 	"backgrounds/images/touhou06.jpg",
 	"backgrounds/images/touhou07.jpg",
-	"backgrounds/images/touhou08.jpg",
 ];
 
 /*Random background images order?*/
-var l_bgImagesRandom = false;
+var l_bgImagesRandom = true;
 
 /*(Image-background only)
 Delay between background images changes
@@ -91,10 +90,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/headup.ogg", name: "Star Wars - Head Up AMV"},
-	{ogg: "songs/playwithfire.ogg", name: "Star Wars - Play With Fire AMV"},
-	{ogg: "songs/firethescore.ogg", name: "Star Wars - Fire AMV"},
-	{ogg: "songs/bringthafire.ogg", name: "Star Wars - Bring That Fire AMV"},
+	{ogg: "songs/harryprisoner.ogg", name: "Hogwarts - Harry"},
+	{ogg: "songs/hedwig.ogg", name: "Hogwarts - Hedwig Musik"},
+	{ogg: "songs/newsjdf.ogg", name: "Hogwarts - Starter Musik"},
 ];
 
 /*Random music order?*/
@@ -109,11 +107,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen auf Warriors Of The Republic!",
-"Wir wünschen dir Viel Spaß auf Warriors Of The Republic",
-"Danke fürs Spielen auf Warriors Of The Republic!",
+"Willkommen in deiner Zaubererlaufbahn!",
+"Wir wünschen dir Viel Spaß in Hogwarts und auf deinem Abenteuer",
 "Halte dich an die Regeln!",
-"Schau doch gerne mal bei unserem Discord vorbei!"
+"Schau doch gerne mal bei unserem Community Discord vorbei!"
 ];
 
 /*Random message order?*/
