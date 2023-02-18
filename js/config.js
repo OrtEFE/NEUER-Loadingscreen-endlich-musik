@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Hogwarts Order Of The Phoenix";
+var l_serverName = "Legends Of The Force";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -90,9 +90,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/harryprisoner.ogg", name: "Hogwarts - Harry"},
-	{ogg: "songs/hedwig.ogg", name: "Hogwarts - Hedwig Musik"},
-	{ogg: "songs/newsjdf.ogg", name: "Hogwarts - Starter Musik"},
+	{ogg: "songs/SWTOR.mp3.ogg", name: "JvS | Legends Of The Force Edit"},
 ];
 
 /*Random music order?*/
@@ -107,10 +105,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen in deiner Zaubererlaufbahn!",
-"Wir wünschen dir Viel Spaß in Hogwarts und auf deinem Abenteuer",
+"Willkommen auf Legends Of The Force!",
+"Wir wünschen dir Viel Spaß auf Jedi vs Sith",
 "Halte dich an die Regeln!",
 "Schau doch gerne mal bei unserem Community Discord vorbei!"
+"Wähle deinen Weg"
 ];
 
 /*Random message order?*/
