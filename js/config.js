@@ -109,7 +109,6 @@ var l_messages = [
 "Wir wünschen dir Viel Spaß auf Jedi vs Sith",
 "Halte dich an die Regeln!",
 "Schau doch gerne mal bei unserem Community Discord vorbei!"
-"Wähle deinen Weg"
 ];
 
 /*Random message order?*/
