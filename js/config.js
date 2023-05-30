@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Legends Of The Force";
+var l_serverName = "Age Of The Republic";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,9 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/touhou01.png",
+	"backgrounds/images/touhou02.png",
+	"backgrounds/images/touhou03.png",
 	"backgrounds/images/touhou04.jpg",
 	"backgrounds/images/touhou05.jpg",
 	"backgrounds/images/touhou05.jpg",
@@ -90,7 +90,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/SWTOR.mp3.ogg", name: "JvS | Legends Of The Force Edit"},
+	{ogg: "songs/SWTOR.mp3.ogg", name: "Chill dein Leben bis du drauf bist!"},
 ];
 
 /*Random music order?*/
@@ -105,10 +105,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen auf Legends Of The Force!",
-"Wir wünschen dir Viel Spaß auf Jedi vs Sith",
+"Willkommen auf Age Of The Republic!",
+"Wir wünschen dir Viel Spaß auf Age Of The Republic",
 "Halte dich an die Regeln!",
-"Schau doch gerne mal bei unserem Community Discord vorbei!"
+"Schau doch gerne mal bei unserem Discord vorbei!"
 ];
 
 /*Random message order?*/
