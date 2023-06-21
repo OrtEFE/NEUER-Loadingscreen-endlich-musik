@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Age Of The Republic";
+var l_serverName = "DZ | Die Dunklen Zeiten [IMP:RP]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,9 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.png",
-	"backgrounds/images/touhou02.png",
-	"backgrounds/images/touhou03.png",
+	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/touhou02.jpg",
+	"backgrounds/images/touhou03.jpg",
 	"backgrounds/images/touhou04.jpg",
 	"backgrounds/images/touhou05.jpg",
 	"backgrounds/images/touhou05.jpg",
