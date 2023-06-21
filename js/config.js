@@ -15,9 +15,6 @@ var l_serverImage = "images/wotrlogo01.png";
 Leave it blank for automatic server name*/
 <<<<<<< HEAD
 var l_serverName = "The One Empire [IMP:RP]";
-=======
-var l_serverName = "DZ | Die Dunklen Zeiten [IMP:RP]";
->>>>>>> parent of 61d69c8 (efe)
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -112,9 +109,8 @@ var l_messages = [
 "Willkommen auf The One Empire!",
 "Wir wünschen dir Viel Spaß,
 =======
-"Willkommen auf Age Of The Republic!",
-"Wir wünschen dir Viel Spaß auf Age Of The Republic",
->>>>>>> parent of 61d69c8 (efe)
+"Willkommen auf The One Empire!",
+"Wir wünschen dir Viel Spaß",
 "Halte dich an die Regeln!",
 "Schau doch gerne mal bei unserem Discord vorbei!"
 ];
