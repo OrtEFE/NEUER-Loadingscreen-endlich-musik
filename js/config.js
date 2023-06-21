@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "DZ | Die Dunklen Zeiten [IMP:RP]";
+var l_serverName = "TOE | The One Empire [IMP:RP]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -104,8 +104,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen auf Age Of The Republic!",
-"Wir wünschen dir Viel Spaß auf Age Of The Republic",
+"Willkommen auf TOE | The One Empire!",
+"Wir wünschen dir Viel Spaß auf TOE | The One Empire,
 "Halte dich an die Regeln!",
 "Schau doch gerne mal bei unserem Discord vorbei!"
 ];
