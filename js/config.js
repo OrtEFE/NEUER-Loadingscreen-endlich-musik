@@ -13,7 +13,7 @@ var l_serverImage = "images/wotrlogo01.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "The One Empire [IMP:RP]";
+var l_serverName = "The Rise Of The Empire [IMP:RP]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -104,7 +104,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen auf The One Empire!",
+"Willkommen auf The Rise Of The Empire!",
 "Wir wünschen dir Viel Spaß",
 "Schau doch gerne mal bei unserem Discord vorbei!"];
 
